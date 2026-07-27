@@ -26,6 +26,7 @@ public class newcopytestcaseforgithub {
 	public void newcopytestcaseforgithub() {
 		tg.openBrowser();
 		tg.wait(1);
+		tg.wait(4);
 		tg.close();
 	}
 }
