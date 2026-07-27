@@ -20,10 +20,10 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class newcopytestcaseforgithub {
+public class newcopytestcaseforgithubv2 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void newcopytestcaseforgithub() {
+	public void newcopytestcaseforgithubv2() {
 		tg.openBrowser();
 		tg.wait(1);
 		tg.wait(4);

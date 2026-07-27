@@ -62,7 +62,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-27 13:57:19",
+            "view_updated_date_time": "2026-07-27 13:59:17",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -120,7 +120,7 @@
                 {
                     "tc_id": "629",
                     "version_module_id": "361",
-                    "tc_name": "NewcopyTestCaseForGithub",
+                    "tc_name": "NewcopyTestCaseForGithubV2",
                     "tc_description": "",
                     "tc_website_url": "",
                     "it_json": "",
@@ -132,12 +132,12 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "0",
-                    "updated_at": "2026-07-27 13:56:34",
+                    "updated_at": "2026-07-27 13:59:34",
                     "created_at": "2026-07-27 13:55:33",
                     "qtest_skip_sync": "1",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/366/391/361/testcases/newcopytestcaseforgithub.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/366/391/361/testcases/newcopytestcaseforgithubv2.java",
                     "vault_paths": []
                 }
             ],
