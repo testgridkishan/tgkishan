@@ -20,12 +20,12 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class testcase2_after_unlink_link_same_repo_selection {
+public class testcase2_after_unlink_link_same_repo_selection_new {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void testcase2_after_unlink_link_same_repo_selection() {
+	public void testcase2_after_unlink_link_same_repo_selection_new() {
 		tg.openBrowser();
-		tg.wait(1);
+		tg.wait(90);
 		tg.close();
 	}
 }
