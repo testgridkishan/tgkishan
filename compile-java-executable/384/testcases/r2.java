@@ -25,7 +25,7 @@ public class r2 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void r2() {
 		tg.openBrowser();
-		tg.wait(3);
+		tg.wait(5);
 		tg.close();
 	}
 }
