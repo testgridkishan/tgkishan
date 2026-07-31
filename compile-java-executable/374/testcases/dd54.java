@@ -25,7 +25,7 @@ public class dd54 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void dd54() {
 		tg.openBrowser();
-		tg.wait(1);
+		tg.wait(11);
 		tg.close();
 	}
 }
